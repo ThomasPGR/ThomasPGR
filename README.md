@@ -50,7 +50,7 @@ Developer Thomas = new Developer(
 <img height="48" src="https://skillicons.dev/icons?i=git" title="Git"/>
 <img height="48" src="https://skillicons.dev/icons?i=github" title="GitHub"/>
 <img height="48" src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
-<img height="48" src="https://skillicons.dev/icons?i=vscode" title="IntelliJ"/>
+<img height="48" src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA"/>
 
 </div>
 
