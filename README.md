@@ -17,7 +17,7 @@
 Developer Thomas = new Developer(
     "Thomas",
     "Ciência da Computação @ Mackenzie",
-    List.of("Swift", "Data Science"),
+    List.of("iOS Developer", "Data Science"),
 );
 ```
 
@@ -49,8 +49,8 @@ Developer Thomas = new Developer(
 
 <img height="48" src="https://skillicons.dev/icons?i=git" title="Git"/>
 <img height="48" src="https://skillicons.dev/icons?i=github" title="GitHub"/>
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="Xcode"/>
 <img height="48" src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
+<img height="48" src="https://skillicons.dev/icons?i=vscode" title="IntelliJ"/>
 
 </div>
 
@@ -58,10 +58,8 @@ Developer Thomas = new Developer(
 
 ## 🚀 Projetos em destaque
 
-- **[Jogo de Reabilitação](LINK_DO_REPO)**: jogo sério em libGDX controlado por dispositivo IoT
-  *Projeto em equipe. Fui responsável por SUA_PARTE.*
-- **[Segmentação de Clientes](LINK_DO_REPO)**: RFM + K-Means no dataset Online Retail II
-  *Fiz SUA_PARTE.*
+- **[ZELU: Keep your friendships alive!](https://github.com/C13G1/Zelu)**: Rede social para manter contato entre amigos com recursos de proximidade entre celulares.
+- **[Proxima estação: Cãofusão nos trilhos](https://github.com/hyauss/ProjectAraraAzul)**: Jogo multiplayer assimétrico para iOS e TVOS baseado no metrô de São Paulo.
 
 ---
 
