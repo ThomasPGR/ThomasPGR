@@ -15,9 +15,9 @@
 
 ```java
 Developer Thomas = new Developer(
-    "Thomas",
+    "Thomas Pinheiro Grandin",
     "Ciência da Computação @ Mackenzie",
-    List.of("iOS Developer", "Data Science"),
+    List.of("iOS Developer", "Data Science + Artificial Intelligence", "IoT"),
 );
 ```
 
@@ -62,11 +62,3 @@ Developer Thomas = new Developer(
 - **[Proxima estação: Cãofusão nos trilhos](https://github.com/hyauss/ProjectAraraAzul)**: Jogo multiplayer assimétrico para iOS e TVOS baseado no metrô de São Paulo.
 
 ---
-
-## 📊 Contribuições
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="100%"/>
-
-</div>
