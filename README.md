@@ -16,7 +16,7 @@
 ```java
 Developer Thomas = new Developer(
     "Thomas Pinheiro Grandin",
-    "Ciência da Computação @ Mackenzie",
+    "Ciência da Computação @ Mackenzie 8/8",
     List.of("iOS Developer", "Data Science + Artificial Intelligence", "IoT"),
 );
 ```
