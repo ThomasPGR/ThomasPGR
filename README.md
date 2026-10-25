@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4F9DDE&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Thomas+%F0%9F%91%8B;Data+Science+%2B+Java+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4F9DDE&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Thomas!" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-pinheiro-grandin-704bb6297/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas.pgr@gmail.com)
 
 </div>
 
@@ -14,11 +14,11 @@
 ## 👩‍💻 Quem sou eu?
 
 ```java
-Developer t = new Developer(
-    "T",
-    "SEU_CURSO @ SUA_FACULDADE",
-    List.of("Data Science", "Java", "Jogos Sérios"),
-    "Analista em uma emissora de TV"
+Developer Thomas = new Developer(
+    "Thomas",
+    "Ciência da Computação @ Mackenzie",
+    List.of("Swift", "Data Science"),
+    "Residente @ Apple Developer Academy"
 );
 ```
 
