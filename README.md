@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4F9DDE&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Thomas!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4F9DDE&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Thomas!;Residente+@+Apple+Developer+Academy" alt="Typing SVG" />
 
 <br/>
 
@@ -18,7 +18,6 @@ Developer Thomas = new Developer(
     "Thomas",
     "Ciência da Computação @ Mackenzie",
     List.of("Swift", "Data Science"),
-    "Residente @ Apple Developer Academy"
 );
 ```
 
@@ -30,8 +29,9 @@ Developer Thomas = new Developer(
 
 **Linguagens**
 
-<img height="48" src="https://skillicons.dev/icons?i=java" title="Java"/>
+<img height="48" src="https://skillicons.dev/icons?i=java" title="Swift"/>
 <img height="48" src="https://skillicons.dev/icons?i=python" title="Python"/>
+<img height="48" src="https://skillicons.dev/icons?i=java" title="Java"/>
 
 **Data Science**
 
@@ -63,7 +63,5 @@ Developer Thomas = new Developer(
 <div align="center">
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="100%"/>
-
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/snake.svg" alt="Snake animation" />
 
 </div>
