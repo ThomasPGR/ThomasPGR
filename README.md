@@ -29,20 +29,27 @@ Developer Thomas = new Developer(
 
 **Linguagens**
 
-<img height="48" src="https://skillicons.dev/icons?i=java" title="Swift"/>
+<img height="48" src="https://skillicons.dev/icons?i=swift" title="Swift"/>
 <img height="48" src="https://skillicons.dev/icons?i=python" title="Python"/>
 <img height="48" src="https://skillicons.dev/icons?i=java" title="Java"/>
+<img height="48" src="https://skillicons.dev/icons?i=c" title="C"/>
 
-**Data Science**
+**IA & Dados**
 
+<img height="48" src="https://skillicons.dev/icons?i=pytorch" title="PyTorch"/>
 <img height="48" src="https://skillicons.dev/icons?i=sklearn" title="scikit-learn"/>
+<img height="48" src="https://skillicons.dev/icons?i=opencv" title="OpenCV"/>
 <img height="48" src="https://skillicons.dev/icons?i=anaconda" title="Anaconda"/>
+
+**Hardware**
+
+<img height="48" src="https://skillicons.dev/icons?i=arduino" title="Arduino"/>
 
 **Ferramentas**
 
 <img height="48" src="https://skillicons.dev/icons?i=git" title="Git"/>
 <img height="48" src="https://skillicons.dev/icons?i=github" title="GitHub"/>
-<img height="48" src="https://skillicons.dev/icons?i=idea" title="IntelliJ"/>
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="Xcode"/>
 <img height="48" src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
 
 </div>
