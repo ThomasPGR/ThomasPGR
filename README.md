@@ -40,6 +40,7 @@ Developer Thomas = new Developer(
 <img height="48" src="https://skillicons.dev/icons?i=sklearn" title="scikit-learn"/>
 <img height="48" src="https://skillicons.dev/icons?i=opencv" title="OpenCV"/>
 <img height="48" src="https://skillicons.dev/icons?i=anaconda" title="Anaconda"/>
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" title="Google Colab"/>
 
 **Hardware**
 
