@@ -64,6 +64,7 @@ Developer Thomas = new Developer(
 
 ## 🚀 Projetos em destaque
 
+- **[Reef: Reference Manager](https://testflight.apple.com/join/EFW8DmFU)**: Gerenciador de referências para profissionais da área criativa para MacOS e iOS (Em breve na App Store).
 - **[ZELU: Keep your friendships alive!](https://github.com/C13G1/Zelu)**: Rede social para manter contato entre amigos com recursos de proximidade entre celulares.
 - **[Proxima estação: Cãofusão nos trilhos](https://github.com/hyauss/ProjectAraraAzul)**: Jogo multiplayer assimétrico para iOS e TVOS baseado no metrô de São Paulo.
 
