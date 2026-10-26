@@ -52,6 +52,11 @@ Developer Thomas = new Developer(
 <img height="48" src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
 <img height="48" src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA"/>
 
+**Design & Gestão**
+
+<img height="48" src="https://skillicons.dev/icons?i=figma" title="Figma"/>
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" title="Trello"/>
+
 </div>
 
 ---
